@@ -49,3 +49,26 @@ function fetchImage (imageUrl) {
       fileReader.readAsDataURL(imageBlob)
     }))
 }
+
+/*
+  {
+    avatarUrl,
+    bio,
+    company,
+    id,
+    location,
+    name,
+    pageUrl,
+    userName,
+    website,
+    organizations: [
+      {
+        avatarUrl,
+        description,
+        id,
+        name,
+        pageUrl
+      }
+    ]
+  }
+*/
