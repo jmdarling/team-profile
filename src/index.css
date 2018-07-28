@@ -1,0 +1,10 @@
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+body {
+  background: #FDFDF8;
+  margin: 0;
+  padding: 20px;
+  font-family: sans-serif;
+}
